@@ -8,7 +8,7 @@ use App\Models\Post;
 use Illuminate\Support\Facades\Auth;
 use App\Http\Requests\PostRequest;//バリデーション
 
-class postController extends Controller
+class PostController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -18,7 +18,7 @@ class postController extends Controller
     public function index()
     {
         //
-        
+
     }
 
     /**
